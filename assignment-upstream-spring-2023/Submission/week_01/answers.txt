@@ -1,0 +1,22 @@
+Last login: Sun Jan 29 11:19:50 on ttys001
+(base) chelseaxsong@Chelseas-Air-2 ~ % cd Desktop 
+(base) chelseaxsong@Chelseas-Air-2 Desktop % cd GLBL5050 
+(base) chelseaxsong@Chelseas-Air-2 GLBL5050 % mkdir Submission 
+(base) chelseaxsong@Chelseas-Air-2 GLBL5050 % cd Submission 
+(base) chelseaxsong@Chelseas-Air-2 Submission % mkdir week_01
+(base) chelseaxsong@Chelseas-Air-2 Submission % cd week_01      
+(base) chelseaxsong@Chelseas-Air-2 week_01 % mkdir s1
+(base) chelseaxsong@Chelseas-Air-2 week_01 % cd s1 
+(base) chelseaxsong@Chelseas-Air-2 s1 % mkdir s2
+(base) chelseaxsong@Chelseas-Air-2 s1 % mkdir s3
+(base) chelseaxsong@Chelseas-Air-2 s1 % cd s3 
+(base) chelseaxsong@Chelseas-Air-2 s3 % echo I love bash scripting. > conf.txt
+(base) chelseaxsong@Chelseas-Air-2 s3 % cd -
+~/Desktop/GLBL5050/Submission/week_01/s1
+(base) chelseaxsong@Chelseas-Air-2 s1 % cd s2 
+(base) chelseaxsong@Chelseas-Air-2 s2 % nano text_chunk1.txt
+(base) chelseaxsong@Chelseas-Air-2 s2 % mkdir Advanced
+(base) chelseaxsong@Chelseas-Air-2 s2 % touch text_chunk2.txt
+(base) chelseaxsong@Chelseas-Air-2 s2 % cp -R text_chunk1.txt text_chunk2.txt
+(base) chelseaxsong@Chelseas-Air-2 s2 % nano text_chunk2.txt
+(base) chelseaxsong@Chelseas-Air-2 s2 % mv text_chunk2.txt Advanced/text_chunk2.txt
